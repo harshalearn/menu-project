@@ -1,0 +1,19 @@
+This application or software is built for users who are not accustomed with technology behind the scenes. This will assist those users by providing menu for the task they would 
+like to achieve without having to know underlying commands or programming to perform tasks and this will enable to automate most of the tasks.
+
+As of now this application is equipped with below features:
+
+1)	Execute commands on Linux terminal.
+2)	Creates security group on AWS cloud.
+3)	Create EBS storage on cloud.
+4)	Launches EC2 instance on cloud.
+5)	Configures webserver on Linux system.
+
+Future enhancements that are being worked on currently:
+
+1)	Provide flexibility for users to select instance type, size of storage and type of storage.
+2)	Feature to set up rules for security group by allowing options such as inbound and outbound.
+3)	Capability to attach storage to required instance by allowing user to give the instance name and volume name.
+4)	Setting up webserver using ansible code.
+5)	Provide another menu option where customer can create partitions and have capability to elastically increase the storage.
+6)	Provision to set up entire Hadoop cluster by integrating ansible and Linux.
